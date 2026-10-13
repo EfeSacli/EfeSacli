@@ -1,31 +1,15 @@
 <h1 align="center">Hi 👋, I'm Efe Saçlı</h1>
 <h3 align="center">A Developer from Türkiye Trying to Learn Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=efesacli&label=Profile%20views&color=0e75b6&style=flat" alt="efesacli" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efesacli" alt="efesacli" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [N/A](N/A)
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [N/A](N/A)
-
-- 🤝 I’m looking for help with [N/A](N/A)
-
 - 👨‍💻 All of my projects are available at [https://github.com/EfeSacli](https://github.com/EfeSacli)
 
-- 📝 I regularly write articles on [N/A](N/A)
-
-- 💬 Ask me about **N/A**
-
 - 📫 How to reach me **efesc16@gmail.com**
-
-- 📄 Know about my experiences [N/A](N/A)
-
-- ⚡ Fun fact **N/A**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
