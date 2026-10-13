@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Efe Saçlı</h1>
 <h3 align="center">A Developer from Türkiye Trying to Learn Software Development</h3>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EfeSacli](https://github.com/EfeSacli)
@@ -24,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=efesacli&show_icons=true&locale=en" alt="efesacli" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efesacli&" alt="efesacli" /></p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
