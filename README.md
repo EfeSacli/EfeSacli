@@ -65,5 +65,5 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EfeSacli&theme=tokyonight&no-frame=true" alt="EfeSacli Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=EfeSacli" alt="EfeSacli Trophies" />
 </p>
