@@ -28,13 +28,13 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=efesacli&show_icons=true&locale=en&theme=radical" alt="EfeSacli Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EfeSacli&show_icons=true&locale=en&theme=radical" alt="EfeSacli Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=efesacli&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EfeSacli&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=efesacli&theme=radical" alt="Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EfeSacli&theme=radical" alt="Streak Stats" />
 </p>
