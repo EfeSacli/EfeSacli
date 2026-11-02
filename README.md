@@ -44,6 +44,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -60,10 +62,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/EfeSacli/EfeSacli/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/profile-details?username=EfeSacli&theme=tokyonight" alt="EfeSacli Profile Details" />
 </p>
